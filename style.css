@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
 :root{
     --cor-de-fundo: #1E1E1E;
-    --vazul marinho: #71EEFF;
+    --azul marinho: #71EEFF;
     --branco: #FFFFFF;
     --botao-ativo: #923F89;
 --botao-inativo: rgba(146, 63, 137, 0.5);
@@ -29,3 +29,38 @@ body {
     width: 100%;
     font-size: 32px;
 }
+
+.titulo-principal span {
+    color: var(--azul marinho);
+}
+
+.botao{
+    font-family: "Chango", sans-serif;
+    background-color: var(--botao-inativo);
+    color: var(--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font-size: 18px;
+    align-items: center;
+    width: 100%;
+    border-bottom: 4px solid var(--botao-ativo);
+    border-left: 2px solid var(--botao-ativo);
+    border-right: 2px solid var(--botao-ativo);
+    border-top: none;
+}
+
+@media screen and (min-width: 768px) {
+    .botoes {
+        display: flex;
+    }
+
+    .botao:first-child {
+        border-radius: 40px 0 0 0;
+    }
+
+    .botao:last-child {
+        border-radius: 0 40px 0 0;
+    }
+}
+

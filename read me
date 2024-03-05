@@ -16,6 +16,6 @@
       <button class="botao">Terminar curso de inglês</button>
     </div>
   </section>
+  <script src="main.js"></script>
 </body>
 </html>
-

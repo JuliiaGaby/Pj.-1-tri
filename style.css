@@ -1,7 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Chango&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap');
 :root{
     --cor-de-fundo: #1E1E1E;
-    --azul marinho: #71EEFF;
+    --azul: #71EEFF;
     --branco: #FFFFFF;
     --botao-ativo: #923F89;
 --botao-inativo: rgba(146, 63, 137, 0.5);
@@ -35,7 +35,7 @@ body {
 }
 
 .botao{
-    font-family: "Chango", sans-serif;
+    font-family: "Cherry Swash", serif;
     background-color: var(--botao-inativo);
     color: var(--branco);
     display: flex;
@@ -59,7 +59,7 @@ body {
 }
 .ativo{
 background-color: var(--botao-ativo);
-border-bottom: 4px solid var(--azul marinho);
+border-bottom: 4px solid var(--azul);
 }
 
 @media screen and (min-width: 768px) {
@@ -75,4 +75,3 @@ border-bottom: 4px solid var(--azul marinho);
         border-radius: 0 40px 0 0;
     }
 }
-

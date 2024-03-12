@@ -9,7 +9,8 @@
 <body>
  <section class="conteudo-principal">
     <h2 class="titulo-principal">Meus Objetivos do ano<span>_</span></h2>
-    <div class="botoes">
+<div class="conteudo"></div> 
+<div class="botoes">
       <button class="botao ativo">Estudar para o Enem</button>
       <button class="botao">Terminar o ensino médio</button>
       <button class="botao">Concurso de dança</button>
@@ -33,6 +34,7 @@
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
     </div>
   </div>
+ </div>
  </section>
   <script src="main.js"></script>
 </body>

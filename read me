@@ -22,19 +22,19 @@
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
         <div class="contador">247dias 21:29:55 </div>
           <div class="contador-digito">
-          <p class="contador-digito-numero">247</p>
+          <p class="contador-digito-numero" id="dias0">247</p>
          <p class="contador-digito-texto">dias</p>
         </div>
          <div class="contador-digito">
-         <p class="contador-digito-numero">21</p>
+         <p class="contador-digito-numero" id="horas0">21</p>
          <p class="contador-digito-texto">horas</p>
        </div>
         <div class="contador-digito">
-        <p class="contador-digito-numero">29</p>
+        <p class="contador-digito-numero" id=min0">29</p>
         <p class="contador-digito-texto">min</p>
        </div>
         <div class="contador-digito">
-        <p class="contador-digito-numero">55</p>
+        <p class="contador-digito-numero" id="seg0">55</p>
         <p class="contador-digito-texto">seg</p>
        </div>
 
@@ -43,16 +43,67 @@
         <h3 class="aba-conteudo-titulo-principal">Terminar o ensino médio</h3>
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
         <div class="contador"> 273dias 21:29:55 </div>
-    </div>
+ <div class="contador-digito">
+          <p class="contador-digito-numero" id="dias1">273</p>
+         <p class="contador-digito-texto">dias</p>
+        </div>
+         <div class="contador-digito">
+         <p class="contador-digito-numero" id="horas1">21</p>
+         <p class="contador-digito-texto">horas</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id=min1">29</p>
+        <p class="contador-digito-texto">min</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id="seg1">55</p>
+        <p class="contador-digito-texto">seg</p>
+       </div>
+ 
+</div>
   <div class="aba-conteudo">
         <h3 class="aba-conteudo-titulo-principal">Concurso de dança</h3>
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
-        <div class="contador">243dias 21:29:55 <div/>
+        <div class="contador">243dias 21:29:55
+ <div class="contador-digito">
+          <p class="contador-digito-numero" id="dias2">243</p>
+         <p class="contador-digito-texto">dias</p>
+        </div>
+         <div class="contador-digito">
+         <p class="contador-digito-numero" id="horas2">21</p>
+         <p class="contador-digito-texto">horas</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id=min2">29</p>
+        <p class="contador-digito-texto">min</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id="seg2">55</p>
+        <p class="contador-digito-texto">seg</p>
+       </div>
+<div/>
     </div>
   <div class="aba-conteudo">
         <h3 class="aba-conteudo-titulo-principal">Terminar curso de inglês</h3>
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
         <div class="contador">638dias 21:29:55 <div/>
+ <div class="contador-digito">
+          <p class="contador-digito-numero" id="dias3">638</p>
+         <p class="contador-digito-texto">dias</p>
+        </div>
+         <div class="contador-digito">
+         <p class="contador-digito-numero" id="horas3">21</p>
+         <p class="contador-digito-texto">horas</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id=min3">29</p>
+        <p class="contador-digito-texto">min</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero" id="seg3">55</p>
+        <p class="contador-digito-texto">seg</p>
+       </div>
+
     </div>
   </div>
  </div>

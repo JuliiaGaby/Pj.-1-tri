@@ -21,6 +21,23 @@
         <h3 class="aba-conteudo-titulo-principal">Estudar para o Enem</h3>
         <h4 class="aba-conteudo-titulo-secundario">Tempo para completar o objetivo</h4>
         <div class="contador">247dias 21:29:55 </div>
+          <div class="contador-digito">
+          <p class="contador-digito-numero">247</p>
+         <p class="contador-digito-texto">dias</p>
+        </div>
+         <div class="contador-digito">
+         <p class="contador-digito-numero">21</p>
+         <p class="contador-digito-texto">horas</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero">29</p>
+        <p class="contador-digito-texto">min</p>
+       </div>
+        <div class="contador-digito">
+        <p class="contador-digito-numero">55</p>
+        <p class="contador-digito-texto">seg</p>
+       </div>
+
     </div>
   <div class="aba-conteudo">
         <h3 class="aba-conteudo-titulo-principal">Terminar o ensino médio</h3>
